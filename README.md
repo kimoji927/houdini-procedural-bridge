@@ -6,17 +6,27 @@
 
 ### 程序化桥梁
 
-| | |
+| 桥梁与栏杆效果 1 | 桥梁与栏杆效果 2 |
 | --- | --- |
-| ![桥梁效果1](docs/bridge/parameters-panel.png) | ![桥梁效果2](docs/bridge/params-after-change.png) |
-| ![桥梁效果3](docs/bridge/railing-01.png) | ![桥梁效果4](docs/bridge/railing-02.png) |
+| ![桥梁与栏杆效果 1](docs/bridge/railing-01.png) | ![桥梁与栏杆效果 2](docs/bridge/railing-02.png) |
+
+**参数化：改参数即改结果**
+
+![修改参数后的桥梁效果](docs/bridge/params-after-change.png)
+
+**HDA 参数面板**（暴露参数供美术直接调参）
+
+![Houdini HDA 参数面板](docs/bridge/parameters-panel.png)
 
 ### 程序化地形
 
-| | |
+| 地形生成效果 | UE 中的地形 |
 | --- | --- |
-| ![地形效果1](docs/terrain/UE地形.png) | ![地形效果2](docs/terrain/地形效果图.png) |
-| ![地形效果3](docs/terrain/地形遮罩.png) | ![地形效果4](docs/terrain/简易地形.png) |
+| ![地形生成效果](docs/terrain/地形效果图.png) | ![UE 中的地形](docs/terrain/UE地形.png) |
+
+| 地形遮罩（Mask） | 简易地形 |
+| --- | --- |
+| ![地形遮罩](docs/terrain/地形遮罩.png) | ![简易地形](docs/terrain/简易地形.png) |
 
 ## 功能
 
