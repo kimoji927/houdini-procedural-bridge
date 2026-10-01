@@ -1,6 +1,19 @@
 ﻿# Procedural Bridge · Houdini HDA
 
 用**一条曲线**程序化生成整座木桥的 Houdini 数字资产（HDA），并通过 **Houdini Engine** 接入 UE5。
+## 效果
+
+| 桥梁与栏杆效果 1 | 桥梁与栏杆效果 2 |
+| --- | --- |
+| ![栏杆效果 1](docs/railing-01.png) | ![栏杆效果 2](docs/railing-02.png) |
+
+**参数化：改参数即改结果**
+
+![修改参数后的桥梁效果](docs/params-after-change.png)
+
+**HDA 参数面板**（暴露给美术直接调参）
+
+![Houdini HDA 参数面板](docs/parameters-panel.png)
 
 ## 功能
 
