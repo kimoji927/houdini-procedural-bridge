@@ -1,0 +1,15 @@
+﻿# ── 排除第三方工具包与自动备份（体积大，不应分发）──
+SideFXLabs*/
+SideFXLabs*.zip
+backup/
+
+# ── 排除练习 / 草稿文件 ──
+untitled.hipnc
+HDA.hipnc
+sidefx--Color_Cube-1.0.hdanc
+
+# ── Houdini 运行时产物 ──
+*.picnc
+houdini_temp/
+*.bak
+*.$*
