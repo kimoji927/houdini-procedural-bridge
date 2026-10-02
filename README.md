@@ -4,7 +4,9 @@
 
 ## 演示视频
 
-▶ **[Houdini 程序化桥梁 HDA｜一条曲线生成整座桥（含 UE5 引擎落地与碰撞）](https://www.bilibili.com/video/BV135a26wEct)**
+▶ **桥梁**：[Houdini 程序化桥梁 HDA｜一条曲线生成整座桥（含 UE5 引擎落地与碰撞）](https://www.bilibili.com/video/BV135a26wEct)
+
+▶ **地形**：[Houdini 程序化地形练习｜Heightfield 遮罩 + 侵蚀，输出到 UE5 Landscape](https://www.bilibili.com/video/BV14ra169Eec)
 
 ## 效果
 
