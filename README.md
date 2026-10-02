@@ -2,6 +2,10 @@
 
 用**一条曲线**程序化生成整座木桥的 Houdini 数字资产（HDA），并通过 **Houdini Engine** 接入 UE5。
 
+## 演示视频
+
+▶ **[Houdini 程序化桥梁 HDA｜一条曲线生成整座桥（含 UE5 引擎落地与碰撞）](https://www.bilibili.com/video/BV135a26wEct)**
+
 ## 效果
 
 ### 程序化桥梁
