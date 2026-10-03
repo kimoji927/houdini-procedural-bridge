@@ -1,4 +1,4 @@
-﻿# ── 排除第三方工具包与自动备份（体积大，不应分发）──
+# ── 排除第三方工具包与自动备份（体积大，不应分发）──
 SideFXLabs*/
 SideFXLabs*.zip
 backup/
@@ -13,3 +13,6 @@ sidefx--Color_Cube-1.0.hdanc
 houdini_temp/
 *.bak
 *.$*
+
+# ── 本地工具与安装包（不纳入版本管理）──
+_tools/
